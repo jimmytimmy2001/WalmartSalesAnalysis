@@ -78,7 +78,8 @@ Total sales ranked across all 45 stores with a reference line showing the chain 
 **Page 2 — Economic Indicators**
 
 
-<img width="500" height="600" alt="Screenshot 2026-05-20 165441" src="https://github.com/user-attachments/assets/70edb816-6b19-45d2-b9f0-fcb4cbd6d248" />
+<img width="414" height="336" alt="Screenshot 2026-05-20 170550" src="https://github.com/user-attachments/assets/9fec8e69-2e6d-4804-bcf4-07db0c7d05df" />
+
 
 
 Dual axis line chart tracking monthly CPI (inflation) against total monthly sales from 2010–2012. The unemployment impact table shows average weekly sales across Low, Moderate, and High unemployment tiers.
